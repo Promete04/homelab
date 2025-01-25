@@ -42,10 +42,12 @@ The homelab runs a mix of open-source and commercial software. Key components in
 
 A picture speaks a thousand words! Below are snapshots of my setup:
 - **Setup**:  
-     <img src="https://github.com/Promete04/homelab/blob/main/pictures/setup.jpg" width=200>  
-     <img src="https://github.com/Promete04/homelab/blob/main/pictures/array.jpg" width=200>
+     <img src="https://github.com/Promete04/homelab/blob/main/pictures/setup.jpg" width=300>  
+     <img src="https://github.com/Promete04/homelab/blob/main/pictures/array.jpg" width=300>
      > The HP server was designed to house 3.5" drives and included the railing for it. Due to only having 2.5" drives, I "MacGyvered" a solution with packaging material I had laying around.  
-- **Dashboard Previews**:[to be added]
+- **Dashboard Previews**:  
+   <img src="https://github.com/Promete04/homelab/blob/main/pictures/dashboard.png" width=600>  
+   <img src="https://github.com/Promete04/homelab/blob/main/pictures/drives.png" width=600>
 
 ## 🚀 Future Ideas
 
