@@ -70,4 +70,3 @@ This repository will contain:
 
 ---
 
-Let me know if you'd like me to expand on specific sections or provide additional examples for the repository contents!
