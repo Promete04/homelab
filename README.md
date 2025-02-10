@@ -17,7 +17,7 @@ The primary goals of this project include:
 
 Here’s a list of the hardware powering my homelab:
 - **Primary Server**: Dell Optiplex 9020
-  - CPU: Intel Core i5-4580x4
+  - CPU: Intel Core i5-4590x4
   - RAM: 16GB DDR3
   - Storage: 500GB Sata SSD + 500GB HDD
 - **NAS**: HP Proliant MicroServer G7 N54L
