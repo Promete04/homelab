@@ -39,15 +39,17 @@ The homelab runs a mix of open-source and commercial software. Key components in
 - **Media/Storage**: TrueNAS scale
 
 ## 🖼️ Pictures
+A picture speaks a thousand words! Below are snapshots of my setup: 
 
-A picture speaks a thousand words! Below are snapshots of my setup:
+-**Homelab diagram**:  
+     <img src="https://github.com/Promete04/homelab/blob/main/pictures/Diagrams/homelab.drawio.png" >
 - **Setup**:  
-     <img src="https://github.com/Promete04/homelab/blob/main/pictures/setup.jpg" width=300>  
-     <img src="https://github.com/Promete04/homelab/blob/main/pictures/array.jpg" width=300>
+     <img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/setup.jpg" width=300>  
+     <img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/array.jpg" width=300>
      > The HP server was designed to house 3.5" drives and included the railing for it. Due to only having 2.5" drives, I "MacGyvered" a solution with packaging material I had laying around.  
 - **Dashboard Previews**:  
-   <img src="https://github.com/Promete04/homelab/blob/main/pictures/dashboard.png" >  
-   <img src="https://github.com/Promete04/homelab/blob/main/pictures/drives.png" >
+   <img src="https://github.com/Promete04/homelab/blob/main/pictures/Dashboards/dashboard.png" >  
+   <img src="https://github.com/Promete04/homelab/blob/main/pictures/Dashboards/drives.png" >
 
 ## 🚀 Future Ideas
 
