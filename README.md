@@ -5,8 +5,8 @@ Welcome to my homelab repository! This project serves as a central hub for all t
 ## 🌟 Introduction
 
 This homelab is a hands-on exploration of IT infrastructure, designed to help me learn and experiment with cutting-edge tools, best practices, and technologies. From building virtual environments to automating processes, my homelab is a playground for innovation.
-
-> **Disclaimer**: This repository is part of an experimentation project. As such, some configurations, setups, or approaches documented here may not follow best practices, may contain errors, or may require improvement. Feedback is always welcome!
+> [!WARNING]  
+> This repository is part of an experimentation project. As such, some configurations, setups, or approaches documented here may not follow best practices, may contain errors, or may require improvement. Feedback is always welcome!
 
 The primary goals of this project include:
 - Deepening my understanding of systems administration, networking, and virtualization.
