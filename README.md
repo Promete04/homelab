@@ -45,7 +45,7 @@ A picture speaks a thousand words! Below are snapshots of my setup:
      <img src="https://github.com/Promete04/homelab/blob/main/pictures/Diagrams/homelab.drawio.png" >
      > The diagram was heavily influenced by [TechGeek01's Homelab Stuff](https://homelab.techgeek01.com).
 - **Setup**:  
-     <img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/setup.jpg" width=300>  
+     <img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/setup.jpg" width=300>
      <img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/array.jpg" width=300>
      > The HP server was designed to house 3.5" drives and included the railing for it. Due to only having 2.5" drives, I "MacGyvered" a solution with packaging material I had laying around.  
 - **Dashboard Previews**:  
