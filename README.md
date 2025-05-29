@@ -30,10 +30,15 @@ Here’s a list of the hardware powering my homelab:
 ## 🛠️ Software Used
 
 The homelab runs a mix of open-source and commercial software. Key components include:
-- **Hypervisor/Virtualization**: [to be added]
-- **Containerization**: Docker
+- **Hypervisor/Virtualization**: Proxmox
+- **Containerization**:
+  - Ubuntu LXC 
+  - Crafty-Controller LXC
+  - Jellyfin LXC
+  - Stirling-PDF LXC
+  - web-check LXC
 - **Operating Systems**:
-  - Hosts: Ubuntu Server
+  -    
 - **Automation**: [to be added]
 - **Networking**: Tailscale
 - **Media/Storage**: TrueNAS scale
