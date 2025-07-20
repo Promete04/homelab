@@ -36,12 +36,12 @@ The homelab runs a mix of open-source and commercial software. Key components in
   - Crafty-Controller LXC
   - Jellyfin LXC
   - Stirling-PDF LXC
-  - web-check LXC
-- **Operating Systems**:
-  -    
-- **Automation**: [to be added]
-- **Networking**: Tailscale
-- **Media/Storage**: TrueNAS scale
+  - Web-check LXC
+  - Booklore LXC
+- **Operating Systems**:  
+  - **Automation**: [to be added]
+  - **Networking**: Tailscale
+  - **Media/Storage**: TrueNAS scale
 
 ## 🖼️ Pictures
 A picture speaks a thousand words! Below are snapshots of my setup: 
