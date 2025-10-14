@@ -38,8 +38,11 @@ The homelab runs a mix of open-source and commercial software. Key components in
   - Stirling-PDF LXC
   - Web-check LXC
   - Booklore LXC
+  - Pi-hole LXC
+  - Joplin-server LXC
+  - Open WebUI LXC
 - **Operating Systems**:  
-  - **Automation**: [to be added]
+  - **Automation**: Home assistant
   - **Networking**: Tailscale
   - **Media/Storage**: TrueNAS scale
 
