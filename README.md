@@ -24,7 +24,7 @@ Here’s a list of the hardware powering my homelab:
   - CPU: AMD Turion II Neo N54L
   - RAM: 16GB DDR3
   - Storage: 250GB Sata SSD + 4TB HDD
-- **Networking Gear**: [To be added]
+- **Networking Gear**: Generic 5-port gigabit switch
 - **UPS**: Woxter UPS 800 Va
 
 ## 🛠️ Software Used
