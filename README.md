@@ -33,17 +33,18 @@ The homelab runs a mix of open-source and commercial software. Key components in
 - **Hypervisor/Virtualization**: Proxmox
 - **Containerization**:
   - Ubuntu LXC 
-  - Crafty-Controller LXC
+  - Discopanel LXC
   - Jellyfin LXC
   - Stirling-PDF LXC
   - Web-check LXC
   - Booklore LXC
-  - Pi-hole LXC
   - Joplin-server LXC
-  - Open WebUI LXC
+  - Ollama LXC
+  - n8n LXC
+  - Homepage LXC
 - **Operating Systems**:  
   - **Automation**: Home assistant
-  - **Networking**: Tailscale
+  - **Networking**: Tailscale, Cloudfared, Pi-Hole
   - **Media/Storage**: TrueNAS scale
 
 ## 🖼️ Pictures
