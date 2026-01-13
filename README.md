@@ -30,22 +30,26 @@ Here’s a list of the hardware powering my homelab:
 ## 🛠️ Software Used
 
 The homelab runs a mix of open-source and commercial software. Key components include:
-- **Hypervisor/Virtualization**: Proxmox
-- **Containerization**:
-  - Ubuntu LXC 
-  - Discopanel LXC
-  - Jellyfin LXC
-  - Stirling-PDF LXC
-  - Web-check LXC
-  - Booklore LXC
-  - Joplin-server LXC
-  - Ollama LXC
-  - n8n LXC
-  - Homepage LXC
-- **Operating Systems**:  
-  - **Automation**: Home assistant
-  - **Networking**: Tailscale, Cloudfared, Pi-Hole
-  - **Media/Storage**: TrueNAS scale
+- **Hypervisor**: Proxmox
+  - **Containerization**:
+    - tailscale lxc
+    - cloudfared LXC
+    - pi-hole LXC
+    - ubuntu LXC 
+    - discopanel LXC
+    - jellyfin LXC
+    - stirling-PDF LXC
+    - web-check LXC
+    - booklore LXC
+    - joplin-server LXC
+    - ollama LXC
+    - n8n LXC
+    - homepage LXC
+  - **Operating Systems**:
+    - docker
+- **NAS**: TrueNAS scale
+  - **Containerization**:
+    - immich  
 
 ## 🖼️ Pictures
 A picture speaks a thousand words! Below are snapshots of my setup: 
