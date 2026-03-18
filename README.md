@@ -21,8 +21,10 @@ Here's a list of the hardware powering my homelab:
   - RAM: 16GB DDR3
   - Storage: 500GB SATA SSD + 500GB HDD + ~~External drive (mounted internally — failed, unusable)~~
     > Attempted to salvage a previously damaged external drive by mounting it internally. Recovery of undamaged sectors was unsuccessful; drive is no longer in use.
-<img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/ex_internal_drive.jpeg" width=300>
-<img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/ex_internal_drive1.jpeg" width=300>
+<img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/ex_internal_drive.jpeg" width=300i> 
+
+<img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/ex_internal_drive1.jpeg" width=300> 
+
 - **High Performance Server**: Asus TUF Dash F15 2022 (FX517ZM)
   - CPU: 12th Gen Intel Core i7-12650H
   - GPU: NVIDIA RTX 3060 6GB
@@ -65,8 +67,9 @@ The homelab runs a mix of open-source and commercial software. Key components in
     - immich
 
 ## Pictures
-A picture speaks a thousand words! Below are snapshots of my setup:
-<img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/shark.jpeg" width=300>
+A picture speaks a thousand words! Below are snapshots of my setup: 
+
+<img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/shark.jpeg" width=300 height=300> 
 
 - **Homelab diagram**:  
      <img src="https://github.com/Promete04/homelab/blob/main/pictures/Diagrams/homelab.drawio.png" >
