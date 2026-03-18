@@ -81,6 +81,8 @@ A picture speaks a thousand words! Below are snapshots of my setup:
 - **Dashboard Previews**:  
    <img src="https://github.com/Promete04/homelab/blob/main/pictures/Dashboards/dashboard.png" >  
    <img src="https://github.com/Promete04/homelab/blob/main/pictures/Dashboards/drives.png" >
+   <img src="https://github.com/Promete04/homelab/blob/main/pictures/Dashboards/entrypoint.png" >
+   <img src="https://github.com/Promete04/homelab/blob/main/pictures/Dashboards/asus.png" >
 
 ## Repository Contents
 
