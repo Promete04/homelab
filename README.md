@@ -40,7 +40,7 @@ Here's a list of the hardware powering my homelab:
 
 The homelab runs a mix of open-source and commercial software. Key components include:
 - **Hypervisor**: Proxmox *(2-node cluster)*
-  - **Node: Entrypoint** (Dell Optiplex 9020) — Containers:
+  - **Node: Entrypoint** (Dell Optiplex 9020) || Containers:
     - 100 tailscale LXC *(primary VPN tunnel)*
     - 104 web-check LXC
     - 106 shelfmark LXC
@@ -50,16 +50,16 @@ The homelab runs a mix of open-source and commercial software. Key components in
     - 113 bentopdf LXC
     - 115 n8n LXC
     - 116 alpine-adguard LXC
-  - **Node: Entrypoint** — VMs:
+  - **Node: Entrypoint** || VMs:
     - 112 haos (Home Assistant OS)
-  - **Node: asus** (Asus TUF Dash F15 2022) — Containers:
+  - **Node: asus** (Asus TUF Dash F15 2022) || Containers:
     - 101 cloudfared LXC
     - 102 jellyfin LXC *(GPU-accelerated transcoding via RTX 3060)*
     - 103 tailscale LXC *(backup — failover in case the primary goes down)*
     - 105 booklore LXC
     - 109 ollama LXC *(GPU-accelerated — runs 7B and 9B(not so good) parameter models via RTX 3060)*
     - 114 discopanel LXC
-  - **Node: asus** — VMs:
+  - **Node: asus** || VMs:
     - 111 docker
 - **NAS**: TrueNAS Scale
   - **Containers**:
