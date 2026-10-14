@@ -1,0 +1,33 @@
+name: Export draw.io diagrams
+
+# Re-renders every .drawio file to SVG whenever one changes, so the README
+# always shows the current diagram without manual PNG exports.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**.drawio"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Export diagrams to SVG
+        uses: rlespinasse/drawio-export-action@v2
+        with:
+          path: docs/Diagrams
+          format: svg
+          output: export
+          action-mode: all
+
+      - name: Commit exported diagrams
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: re-export draw.io diagrams"
+          file_pattern: "docs/Diagrams/export/*.svg"

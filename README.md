@@ -73,7 +73,7 @@ A picture speaks a thousand words! Below are snapshots of my setup:
 <img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/shark.jpeg" width=300 height=300>
 
 - **Homelab diagram**:  
-     <img src="https://github.com/Promete04/homelab/blob/main/pictures/Diagrams/homelab.drawio.png" >
+     <img src="docs/Diagrams/export/homelab.svg" alt="Homelab diagram">
      > The diagram was heavily influenced by [TechGeek01's Homelab Stuff](https://homelab.techgeek01.com).
 - **Setup**:  
      <img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/setup1.jpeg">
