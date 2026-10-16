@@ -84,6 +84,7 @@ A picture speaks a thousand words! Below are snapshots of my setup:
      > The HP server was designed to house 3.5" drives and included the railing for it. Due to only having 2.5" drives, I "MacGyvered" a solution with packaging material I had laying around.  
 
      <img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/fgpa.jpeg" width=300>
+     
      > ALINX AX7035B FPGA board with its JTAG cable.
 - **Dashboard Previews**:  
    <img src="https://github.com/Promete04/homelab/blob/main/pictures/Dashboards/dashboard.png" >  
