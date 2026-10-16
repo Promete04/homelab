@@ -1,0 +1,11 @@
+#!/bin/bash
+# Controls the USB relay (CH340 LCUS-1) that switches the AX7035B's 5V supply.
+# Install on the Proxmox host (Entrypoint) as /usr/local/bin/fpga-power.
+DEV=/dev/fpga-relay
+stty -F "$DEV" 9600 raw -echo
+case "$1" in
+  on)    printf '\xA0\x01\x01\xA2' > "$DEV" ;;
+  off)   printf '\xA0\x01\x00\xA1' > "$DEV" ;;
+  cycle) "$0" off; sleep 2; "$0" on ;;
+  *)     echo "usage: $0 on|off|cycle"; exit 1 ;;
+esac

@@ -33,6 +33,7 @@ Here's a list of the hardware powering my homelab:
   - Storage: 250GB SATA SSD + 4TB HDD
 - **Networking Gear**: Generic 5-port gigabit switch
 - **UPS**: Woxter UPS 800 VA
+- **FPGA**: ALINX AX7035B *(Artix-7 XC7A35T, connected to Entrypoint for learning VHDL; power switched by a USB relay; see [FPGA Lab](docs/FPGA/README.md))*
 
 ## Software Used
 
@@ -54,6 +55,7 @@ The homelab runs a mix of open-source and commercial software. Key components in
     - 120 bookorbit LXC
   - **Node: Entrypoint** || VMs:
     - 112 haos (Home Assistant OS 17.1)
+    - *(planned)* Vivado VM *(USB passthrough of the FPGA's JTAG cable and UART)*
   - **Node: asus** (Asus TUF Dash F15 2022) || Containers:
     - 101 cloudflared LXC
     - 102 jellyfin LXC *(GPU-accelerated transcoding via RTX 3060)*
@@ -80,6 +82,9 @@ A picture speaks a thousand words! Below are snapshots of my setup:
      <img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/setup2.jpeg" width=300>
      <img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/array.jpg" width=300>
      > The HP server was designed to house 3.5" drives and included the railing for it. Due to only having 2.5" drives, I "MacGyvered" a solution with packaging material I had laying around.  
+
+     <img src="https://github.com/Promete04/homelab/blob/main/pictures/Setup/fgpa.jpeg" width=300>
+     > ALINX AX7035B FPGA board with its JTAG cable.
 - **Dashboard Previews**:  
    <img src="https://github.com/Promete04/homelab/blob/main/pictures/Dashboards/dashboard.png" >  
    <img src="https://github.com/Promete04/homelab/blob/main/pictures/Dashboards/drives.png" >
